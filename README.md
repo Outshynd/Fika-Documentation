@@ -1,5 +1,7 @@
 # Fika - A multiplayer mod for SPT
 
+## Please refer to our [Wiki](https://github.com/project-fika/Fika-Documentation/wiki) for the best setup instructions.
+
 <details open>
     <summary>Table of Contents</summary>
     <ol>
